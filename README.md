@@ -1,6 +1,6 @@
 # Tor + Portable
 
-A coolect of GUI tools for Tor (https://www.torproject.org/). Browse in the Tor Network (Onion) (Deep Web\Dark Web).
+A colect of GUI tools for Tor (https://www.torproject.org/). Browse in the Tor Network (Onion) (Deep Web\Dark Web).
 
 
 This is a personal project, and I'm not related with Tor Team (https://www.torproject.org/) or PortableApps (https://portableapps.com).
